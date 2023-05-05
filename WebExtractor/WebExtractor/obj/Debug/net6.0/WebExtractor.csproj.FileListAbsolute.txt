@@ -1,0 +1,12 @@
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\bin\Debug\net6.0\WebExtractor.deps.json
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\bin\Debug\net6.0\WebExtractor.dll
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\bin\Debug\net6.0\WebExtractor.pdb
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\WebExtractor.csproj.AssemblyReference.cache
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\WebExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\WebExtractor.AssemblyInfoInputs.cache
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\WebExtractor.AssemblyInfo.cs
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\WebExtractor.csproj.CoreCompileInputs.cache
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\WebExtractor.dll
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\refint\WebExtractor.dll
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\WebExtractor.pdb
+C:\Users\ohmlo\source\repos\WebExtractor\WebExtractor\obj\Debug\net6.0\ref\WebExtractor.dll

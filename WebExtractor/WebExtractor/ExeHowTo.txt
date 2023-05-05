@@ -1,0 +1,36 @@
+﻿To run the C# code as an executable, you need to compile the code into an executable file first. Here are the steps to do that:
+
+
+Open Visual Studio or any other C# compiler and create a new project using the template of your choice (console application or class library).
+
+
+
+Copy the code snippet I provided earlier and paste it into your project.
+
+
+
+Make sure to add the required namespaces and dependencies at the top of your code file. You will need to add
+
+using System.Collections.Generic, 
+using System.IO, and 
+using HtmlAgilityPack; to the top of your file.
+
+
+
+If you are using a console application template, replace the default
+
+Main method with the code snippet I provided earlier. If you are using a class library template, you can create a new method in your class and paste the code snippet inside that method.
+
+
+
+Build your project by clicking on the "Build" menu and selecting "Build Solution" or by pressing the "Ctrl + Shift + B" keyboard shortcut.
+
+
+
+Once the build process is complete, navigate to the "bin" directory of your project in File Explorer. This is where the compiled executable file will be located.
+
+
+
+Double-click on the executable file to run it. If you are using a console application, the program will open in the command-line interface. If you are using a class library, you
+ will need to call the method containing the code snippet from another program or component.
+

@@ -1,0 +1,40 @@
+﻿@model QrCodeMVC.ViewModels.ScanResultViewModel
+
+@{
+    ViewBag.Title = "Read";
+}
+
+<h2>Scanned QR Codes and Barcodes</h2>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>QRCodeText</th>
+                <th>QRCodeImagePath</th>
+                <th>BarcodeText</th>
+                <th>BarcodeImagePath</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var qrCodeModel in Model.QRCodeModels)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => qrCodeModel.QRCodeText)</td>
+                    <td><img src="@Url.Content(qrCodeModel.QRCodeImagePath)" /></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            }
+            @foreach (var barcodeModel in Model.BarcodeModels)
+            {
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>@Html.DisplayFor(modelItem => barcodeModel.Text)</td>
+                    <td><img src="@Url.Content(barcodeModel.BarcodeImagePath)" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

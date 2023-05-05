@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xN/olmX6hF1xSMh6FdzECK0ALX6GXy51L1+4ADGu+NDQKwftW0E4mSANcLBjejPAg7+iGE36FSif6kfVweK+cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ohmlo\\source\\repos\\WebExtractor\\WebExtractor\\WebExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ohmlo\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

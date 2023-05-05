@@ -1,0 +1,6 @@
+C:\Users\ohmlo\source\repos\PhoneQrCodeScanner\PhoneQrCodeScanner\obj\Debug\net6.0\PhoneQrCodeScanner.csproj.AssemblyReference.cache
+C:\Users\ohmlo\source\repos\PhoneQrCodeScanner\PhoneQrCodeScanner\obj\Debug\net6.0\PhoneQrCodeScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohmlo\source\repos\PhoneQrCodeScanner\PhoneQrCodeScanner\obj\Debug\net6.0\PhoneQrCodeScanner.AssemblyInfoInputs.cache
+C:\Users\ohmlo\source\repos\PhoneQrCodeScanner\PhoneQrCodeScanner\obj\Debug\net6.0\PhoneQrCodeScanner.AssemblyInfo.cs
+C:\Users\ohmlo\source\repos\PhoneQrCodeScanner\PhoneQrCodeScanner\obj\Debug\net6.0\PhoneQrCodeScanner.csproj.CoreCompileInputs.cache
+C:\Users\ohmlo\source\repos\PhoneQrCodeScanner\PhoneQrCodeScanner\obj\Debug\net6.0\PhoneQrCodeScanner.MvcApplicationPartsAssemblyInfo.cache

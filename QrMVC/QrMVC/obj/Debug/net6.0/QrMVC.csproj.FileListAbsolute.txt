@@ -1,0 +1,8 @@
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.csproj.AssemblyReference.cache
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.AssemblyInfoInputs.cache
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.AssemblyInfo.cs
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.csproj.CoreCompileInputs.cache
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.RazorAssemblyInfo.cache
+C:\Users\ohmlo\source\repos\QrMVC\QrMVC\obj\Debug\net6.0\QrMVC.RazorAssemblyInfo.cs

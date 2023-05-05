@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A79kHyGTiWKsCKlNuZqK0r1entbr9yxqeIuNL+rvhqPzguVVA+Q9HamcGPDBjzFnUexH0y/+pk0tgBm2T1AgFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ohmlo\\source\\repos\\QrMVC\\QrMVC\\QrMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ohmlo\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
